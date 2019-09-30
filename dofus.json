@@ -1,0 +1,117 @@
+{
+	"personnage":[
+		{
+			"id":1,"classe":"Iop",
+			"name":"Goultard",
+			"gender":"Male",
+			"sorts":["Colère de Iop","Tempête de Puissance","Epée Céleste"],
+			"description":"Guerriers téméraires. Les Iops sont des guerriers fonceurs et sans reproche ! Une chose est sûre : les Iops savent faire parler les armes. D'ailleurs, se retrouver pris dans une bagarre au moins une fois par jour est pour eux un signe de bonne santé. Leur tempérament impétueux fait des Iops des paladins de l'extrême, capables du meilleur... comme du pire!",
+			"icone":"https://vignette.wikia.nocookie.net/129dofus/images/3/34/Iop.png/revision/latest/scale-to-width-down/50?cb=20190426150620",
+			"image":"https://img.webme.com/pic/d/dofus-ae/iop_bg.jpg"
+		},
+
+		{
+			"id":2,"classe":"Cra",
+			"name":"Ashe",
+			"gender":"Female",
+			"sort":["FLèche Explosive","Flèche Punitive","Oeil de Taupe"],
+			"description":"Archers. Les Crâs sont des archers aussi fiers que précis! Ils font des alliés précieux contre les adeptes de la mêlée franche. Restant à distance, décochant leurs traits empennés dans le moindre orifice laissé sans surveillance, ils ne laissent aucun répit à leurs adversaires!",
+			"icone":"https://vignette.wikia.nocookie.net/129dofus/images/b/b0/Cra.png/revision/latest?cb=20190426150539",
+			"image":"http://wiki-dofus.eu/_images/6/6b/Crabg.jpg"
+		},
+
+		{
+			"id":3,"classe":"Eniripsa",
+			"name":"Jenny","gender":"Female",
+			"sort":["Mot de Reconstitution","Mot d'Altruisme","Mot Stimulant"],
+			"description":"Guérisseurs. Les Eniripsas sont des guérisseurs qui soignent d'un simple mot. Ils utilisent le pouvoir de la parole pour soulager les souffrances de leurs alliés, mais parfois aussi pour blesser leurs ennemis. Certains Eniripsas sont même devenus de véritables arpenteurs du verbe, des rôdeurs des langues oubliées.",
+			"icone":"https://vignette.wikia.nocookie.net/129dofus/images/0/0e/Eniripsa.png/revision/latest/scale-to-width-down/50?cb=20190426150601",
+			"image":"https://img.webme.com/pic/d/dofus-ae/eniripsa_bg.jpg"
+		},
+
+		{
+			"id":4,"classe":"Sadida",
+			"name":"Amalia",
+			"gender":"Female",
+			"sort":["Ronce Agressive","Tremblement","Vent Empoisonné"],
+			"description":"Sorcier sylvestre. Les Sadidas sont des invocateurs qui empoisonnent la vie de leurs ennemis! Apprivoiser les ronces pour en faire des armes terrifiantes, confectionner des poupées de guerre et de soins, voilà qui satisfait tout disciple Sadida digne de ce nom.",
+			"icone":"https://vignette.wikia.nocookie.net/129dofus/images/0/0e/Sadida.png/revision/latest/scale-to-width-down/50?cb=20190426150702",
+			"image":"http://ekladata.com/u06iANb3c7hX_MoKcpBhqlPWqV4@550x611.jpg"
+
+		},
+
+		{
+			"id":5,"classe":"Sacrieur",
+			"name":"Bersek","gender":"Male",
+			"sort":["Punition","Châtiment Osé","Dissolution"],
+			"description":"Berserkers. Les Sacrieurs sont des berserkers qui décuplent leurs forces dès qu'ils sont frappés! N'ayant pas peur de recevoir des coups, ni de s'exposer aux blessures, ils seront souvent en première ligne, prêts à verser le premier sang ! Le Sacrieur est vraiment le compagnon idéal pour vos longues soirées guerrières...",
+			"icone":"https://vignette.wikia.nocookie.net/129dofus/images/4/49/Sacrier.png/revision/latest/scale-to-width-down/50?cb=20190426150644",
+			"image":"http://wakfu1.e-monsite.com/medias/album/images/46200668sacrieur-bg-jpg.jpg"
+		},
+
+		{
+			"id":6,"classe":"Enutrof",
+			"name":"Ruel","gender":"Male",
+			"sort":["Pelle Masacrante","Maladresse", "Coffre au Trésor"],
+			"description":"Chasseurs de trésors. Les Enutrofs sont des chasseurs de trésor avides de kamas, qui malgré leur grand âge courent comme des dragodindes à la vue d'un coffre bien rempli. Ils sont experts dans l'art de ralentir leurs ennemis : ils peuvent ainsi les harceler avant de les assommer à grands coups de pelle le moment venu!",
+			"icone":"https://vignette.wikia.nocookie.net/129dofus/images/a/a2/Osamodas.png/revision/latest/scale-to-width-down/50?cb=20190426150630",
+			"image":"https://img.webme.com/pic/d/dofus-ae/enutrof_bg.jpg"
+		},
+
+		{
+			"id":7,"classe":"Osamodas",
+			"name":"Sadoma","gender":"Female",
+			"sort":["Piqûre Motivante","Cri de L'ours","Croc du Mulou"],
+			"description":"Invocateurs de créatures. Les Osamodas sont des dompteurs nés! Ils ont le pouvoir d'invoquer des créatures et sont de remarquables dresseurs. Une rumeur prétend qu'ils taillent leurs vêtements dans la peau de leurs ennemis, mais allez donc leur demander ce qu'il en est... Si vous êtes de son côté, un Osamodas sera aux petits soins pour vous. Dans le cas contraire, peut-être terminerez-vous votre vie sous la forme d'une botte ou d'un bonnet fourré.",
+			"icone":"https://vignette.wikia.nocookie.net/129dofus/images/a/a2/Osamodas.png/revision/latest/scale-to-width-down/50?cb=20190426150630",
+			"image":"https://img.webme.com/pic/d/dofus-ae/osamodas_bg.jpg"
+		},
+		
+		{
+			"id":8,"classe":"Xelor",
+			"name":"Nox","gender":"Male",
+			"sort":["Rayon Obscur","Poussière Temporelle","Sablier du Xélor"],
+			"description":"Maître du temps. Les Xélors sont des mages qui maîtrisent le temps et toutes les mécaniques qui donnent l'heure : carillons, horloges et pendules leur obéissent au doigt et à l'œil.",
+			"icone":"https://vignette.wikia.nocookie.net/129dofus/images/b/b6/Xelor.png/revision/latest/scale-to-width-down/50?cb=20190426150709",
+			"image":"http://s1.e-monsite.com/2009/08/20/06/93082678xelor-bg-jpg.jpg"
+		},
+
+		{
+			"id":9,"classe":"Pandawa",
+			"name":"Pastis","gender":"Male",
+			"sorts":["Picole","Gueule de Bois","Souillure"],
+			"description":"Bagarreurs assoiffés. Les Pandawas sont des guerriers adeptes des arts martiaux qui savent faire des folies de leur corps ! Ils peuvent même en faire avec le corps des autres... Le Pandawa sait comment soulever les foules, il porte ses alliés sur ses épaules pour mieux les protéger. Quant à ses ennemis, il les enverra valser dans le décor, avant de fêter sa victoire avec une bonne rasade de lait de bambou!",
+			"icone":"https://vignette.wikia.nocookie.net/129dofus/images/2/2c/Pandawa.png/revision/latest/scale-to-width-down/50?cb=20190426150638",
+			"image":"https://img.webme.com/pic/d/dofus-ae/pandawa_bg.jpg"
+		},
+
+		{
+			"id":10,"classe":"Sram",
+			"name":"Jack","gender":"Male",
+			"sorts":["Attaque Mortelle","Coup Sournois","Arnaque"],
+			"description":"Assassins. Les Srams sont des assassins qui aiment les bourses, rebondies de préférence. Trousser les pans d'une tunique, tâter le fond d'une poche, faire preuve de doigté, palper enfin des bijoux tant convoités avant de poser un piège ou d'asséner un coup mortel, voilà la vie d'un disciple de Sram!",
+			"icone":"https://vignette.wikia.nocookie.net/129dofus/images/e/ed/Sram.png/revision/latest/scale-to-width-down/50?cb=20190426150705",
+			"image":"https://img.webme.com/pic/d/dofus-ae/sram_bg.jpg"
+		},
+
+		{
+			"id":11,"classe":"Feca",
+			"name":"Café",
+			"gender":"Male",
+			"sorts":["Glyphe Enflammée","Glyphe Agressive","Bouclier du Feca"],
+			"description":"Protecteurs. Les Fécas sont de loyaux protecteurs toujours sur la défensive. Ils sont appréciés dans les groupes d'aventuriers pour leurs armures élémentaires et leur capacité à encaisser les coups durs. Ils sont également maîtres dans l'art des signes magiques : quand il va y avoir du grabuge, les Fécas sortent leurs glyphes!",
+			"icone":"https://vignette.wikia.nocookie.net/129dofus/images/5/57/Feca.png/revision/latest/scale-to-width-down/50?cb=20190426150612",
+			"image":"https://i.skyrock.net/0045/78050045/pics/2996907037_1_3_cgGy48dg.jpg"
+		},
+
+		{
+			"id":12,"classe":"Ecaflip",
+			"name":"Kerubim",
+			"gender":"Male",
+			"sorts":["Pile ou Face","Bluff","Griffe Joueuse"],
+			"description":"Combattants imprévisibles. Les Ecaflips sont des guerriers joueurs qui se fourrent dans les endroits où l'on peut gagner gros, et perdre beaucoup... Un Ecaflip bien dans sa peau parie sans arrêt, pour tout et pour rien. Mais attention, il prend le jeu très au sérieux et ira même jusqu'à risquer sa vie sur un jet de dés pour tenter de remporter la mise...",
+			"icone":"https://vignette.wikia.nocookie.net/129dofus/images/1/18/Ecaflip.png/revision/latest/scale-to-width-down/50?cb=20190426150546",
+			"image":"http://zam.zamimg.com/images/3/b/3b13bab59b8807c557a4f562d7d49bdc.png"
+		}	
+	]
+}
